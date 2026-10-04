@@ -1,4 +1,4 @@
-package notification.domain.enums;
+package requisition.domain.enums;
 
-public enum RequestArea {
+public enum RequisitionArea {
 }

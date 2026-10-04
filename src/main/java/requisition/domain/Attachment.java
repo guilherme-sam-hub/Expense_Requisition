@@ -1,4 +1,4 @@
 package requisition.domain;
 
-public class Requisition {
+public class Attachment {
 }
