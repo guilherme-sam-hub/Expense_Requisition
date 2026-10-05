@@ -1,4 +1,4 @@
-package requisition.admin.internal;
+package requisition.admin;
 
 public class UserBootstrapService {
 }
