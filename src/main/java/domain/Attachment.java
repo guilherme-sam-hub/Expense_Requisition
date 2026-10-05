@@ -1,4 +1,4 @@
-package requisition.domain;
+package domain;
 
 public class Attachment {
 }
