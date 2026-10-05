@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.theater.finance</groupId>
-    <artifactId>Expense_Requisition</artifactId>
+    <artifactId>ExpenseRequisition</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Expense_Requisition</name>
     <description>Expense_Requisition</description>
