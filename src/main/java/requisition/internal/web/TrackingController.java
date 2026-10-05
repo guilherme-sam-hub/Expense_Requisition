@@ -1,4 +1,4 @@
 package requisition.internal.web;
 
-public record TrackingController() {
+public class TrackingController {
 }

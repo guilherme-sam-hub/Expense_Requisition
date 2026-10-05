@@ -1,4 +1,4 @@
 package requisition.internal.web.dto;
 
-public class TrackingView {
+public record TrackingView() {
 }
